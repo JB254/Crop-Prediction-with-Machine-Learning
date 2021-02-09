@@ -1,0 +1,15 @@
+{
+    "districts" : [
+        "BARINGO", "BOMET", "BUNGOMA", "BUSIA", "EMBU", "HOMA-BAY", "ISIOLO", "KAJIADO", "KAKAMEGA", "KERICHO", 
+        "KIAMBU", "KILIFI", "KIRINYAGA", "KISII", "KISUMU", "KITUI", "KWALE", "LAIKIPIA", "LAMU", "MACHAKOS", 
+        "MAKUENI", "MANDERA", "MARSABIT", "MERU", "MIGORI", "MOMBASA", "MURANGA", "NANDI", "NYANDARUA", "NYERI"
+    ],
+
+    "crops" : [
+        "Maize", "Beans", "Rice"
+    ],
+
+    "soils" : [
+        "alluvial", "clay", "loamy", "sandy", "silty"
+    ]
+}
